@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "project-postcovid.qmd"
 
 website:
   title: "Valeska Kozik"
@@ -22,3 +24,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    

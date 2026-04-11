@@ -1,14 +1,14 @@
 {
-    "id": "9FD13632",
-    "path": "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Website/Professional website/valeskakozik.github.io/contact.qmd",
-    "project_path": "contact.qmd",
+    "id": "EAA94929",
+    "path": "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Website/Professional website/valeskakozik.github.io/project-postcovid.qmd",
+    "project_path": "project-postcovid.qmd",
     "type": "quarto_markdown",
-    "hash": "3508567788",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1775916817786.0,
+    "created": 1775933977296.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 8,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
-        "scrollLine": "11",
-        "rmdVisualModeLocation": "237:0"
+        "cursorPosition": "27,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "3798:650.5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775928886,
+    "lastKnownWriteTime": 1775934832,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775928886052,
+    "last_content_update": 1775934832747,
     "read_only": false,
     "read_only_alternatives": []
 }
