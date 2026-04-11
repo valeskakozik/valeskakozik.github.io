@@ -10,6 +10,8 @@ title: "Research"
 
 ## Completed Projects
 
+*Concluded projects — click any project to read more.*
+
 ::: project-card-2
 [**Cognitive Impairment in Post-COVID Syndrome: A Cross-Sectional and Longitudinal Study**](project-postcovid.qmd)\
 *Completed · Doctoral work*\

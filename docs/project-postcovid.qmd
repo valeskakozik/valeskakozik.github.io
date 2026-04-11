@@ -6,6 +6,11 @@ title: "Cognitive Impairment in Post-COVID Syndrome: A Cross-Sectional and Longi
 
 ```{=html}
 <script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
 function switchLang(lang) {
   document.querySelector('.lang-en').style.display = 
     lang === 'en' ? 'block' : 'none';

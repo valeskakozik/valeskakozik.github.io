@@ -61,7 +61,7 @@ li {
   color: white;
 }
 
-## Project cards stylings
+/* Project cards stylings */
 /* Option 1: subtle grey card with left accent border */
 .project-card-1 {
   background-color: #f8f8f8;
@@ -90,9 +90,10 @@ li {
   margin-bottom: 1.5rem;
 }
 
-## Link stylings
+/* Link styling */
+
 a {
-  color: #2e7d32;
+  color: #749bae;
   text-decoration: none;
 }
 

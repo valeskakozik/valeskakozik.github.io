@@ -146,31 +146,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>– Deutsche Fassung siehe unten -–</em></p>
-<p>&nbsp;</p>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
+function switchLang(lang) {
+  document.querySelector('.lang-en').style.display = 
+    lang === 'en' ? 'block' : 'none';
+  document.querySelector('.lang-de').style.display = 
+    lang === 'de' ? 'block' : 'none';
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+}
+</script>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" onclick="switchLang('en')">EN</button>
+  <button class="lang-btn" data-lang="de" onclick="switchLang('de')">DE</button>
+</div>
+<div class="lang-en">
 <p>I welcome enquiries from researchers, clinicians, and members of the public. Please see below for how to get in touch.</p>
-<p><strong>Email</strong> <a href="mailto:valeska.kozik@med.uni-jena.de">valeska.kozik@med.uni-jena.de</a></p>
-<p><strong>Address</strong> Universitätsklinikum Jena, Klinik für Neurologie, Am Klinikum 1, 07747 Jena, Germany</p>
-<p>&nbsp;</p>
+<p><strong>Email</strong><br>
+<a href="mailto:valeska.kozik@med.uni-jena.de">valeska.kozik@med.uni-jena.de</a></p>
+<p><strong>Address</strong><br>
+Universitätsklinikum Jena<br>
+Klinik für Neurologie<br>
+Am Klinikum 1<br>
+07747 Jena, Germany</p>
 <p><strong>Types of enquiries welcome:</strong></p>
 <ul>
-<li><em>Study participation</em> — if you are interested in taking part in one of the research studies, please visit the <a href="./participate.html">Participate / Teilnahme</a> page for more information.</li>
-<li><em>Professional collaboration</em> — I am happy to hear from researchers and clinicians interested in collaborative projects.</li>
-<li><em>Questions about my research</em> — if you have read about one of my studies and would like to know more, please don’t hesitate to get in touch.</li>
+<li><em>Study participation:</em> if you are interested in taking part in one of the research studies, please visit the <a href="./participate.html">Participate / Teilnahme</a> page for more information.</li>
+<li><em>Professional collaboration:</em> I am happy to hear from researchers and clinicians interested in collaborative projects.</li>
+<li><em>Questions about my research:</em> if you have read about one of my studies and would like to know more, please don’t hesitate to get in touch.</li>
 </ul>
-<p>&nbsp;</p>
-<hr>
-<p>&nbsp;</p>
+</div>
+<div class="lang-de">
 <p>Ich freue mich über Nachrichten von Forschenden, Kliniker:innen und allen anderen Interessierten.</p>
-<p><strong>E-Mail</strong> <a href="mailto:valeska.kozik@med.uni-jena.de">valeska.kozik@med.uni-jena.de</a></p>
-<p><strong>Address</strong> Universitätsklinikum Jena, Klinik für Neurologie, Am Klinikum 1, 07747 Jena</p>
-<p>&nbsp;</p>
-<p><strong>Wilkommene Anfragen:</strong></p>
+<p><strong>E-Mail</strong><br>
+<a href="mailto:valeska.kozik@med.uni-jena.de">valeska.kozik@med.uni-jena.de</a></p>
+<p><strong>Adresse</strong><br>
+Universitätsklinikum Jena<br>
+Klinik für Neurologie<br>
+Am Klinikum 1<br>
+07747 Jena</p>
+<p><strong>Willkommene Anfragen:</strong></p>
 <ul>
-<li><em>Studienteilnahme</em> — Wenn Sie Interesse haben, an einer der Studien teilzunehmen, besuchen Sie bitte die Seite <a href="./participate.html">Participate / Teilnahme</a> für weitere Informationen.</li>
-<li><em>Wissenschaftliche Zusammenarbeit</em> — Ich freue mich über Kontaktaufnahmen von Forschenden und Kliniker:innen, die an gemeinsamen Projekten interessiert sind.</li>
-<li><em>Fragen zu meiner Forschung</em> — Wenn Sie von einer meiner Studien gehört haben und mehr erfahren möchten, können Sie sich gerne bei mir melden.</li>
+<li><em>Studienteilnahme:</em> Wenn Sie Interesse haben, an einer der Studien teilzunehmen, besuchen Sie bitte die Seite <a href="./participate.html">Participate / Teilnahme</a> für weitere Informationen.</li>
+<li><em>Wissenschaftliche Zusammenarbeit:</em> Ich freue mich über Kontaktaufnahmen von Forschenden und Kliniker:innen, die an gemeinsamen Projekten interessiert sind.</li>
+<li><em>Fragen zu meiner Forschung:</em> Wenn Sie von einer meiner Studien gehört haben und mehr erfahren möchten, können Sie sich gerne bei mir melden.</li>
 </ul>
+</div>
 
 
 

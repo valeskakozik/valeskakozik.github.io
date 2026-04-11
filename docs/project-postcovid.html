@@ -149,6 +149,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="plain-language-summary" class="level2">
 <h2 class="anchored" data-anchor-id="plain-language-summary">Plain Language Summary</h2>
 <script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
 function switchLang(lang) {
   document.querySelector('.lang-en').style.display = 
     lang === 'en' ? 'block' : 'none';
