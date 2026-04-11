@@ -3,7 +3,7 @@
     "path": "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Website/Professional website/valeskakozik.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "981996732",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1775916545784.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2021:348",
-        "cursorPosition": "11,38",
-        "scrollLine": "0"
+        "cursorPosition": "28,3",
+        "scrollLine": "17"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775936074,
+    "lastKnownWriteTime": 1775936251,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775936074303,
+    "last_content_update": 1775936251373,
     "read_only": false,
     "read_only_alternatives": []
 }
