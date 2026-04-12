@@ -1,32 +1,78 @@
-p {
-  margin-bottom: 0.8rem;
+/* ── Imports ── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/* ── Base ── */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1a1a1a;
+  background-color: #ffffff;
 }
 
-h2, h3 {
-  margin-top: 2rem;
+/* ── Navbar ── */
+.navbar {
+  background-color: #1a3d2b !important;
+  border-bottom: none !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+.nav-link.active {
+  color: #ffffff !important;
+  border-bottom: 2px solid rgba(255,255,255,0.6);
+}
+
+/* ── Links ── */
+a {
+  color: #2e7d32;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Typography ── */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: #1a3d2b;
+}
+
+p {
+  margin-bottom: 0.8rem;
+  line-height: 1.7;
 }
 
 hr {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: none;
+  border-top: 1px solid #e8e8e8;
 }
 
 li {
   margin-bottom: 0.5rem;
+  line-height: 1.7;
 }
 
-.pub-entry {
-  margin-bottom: .5rem;
-  padding-bottom: .5rem;
-}
-
-.pub-entry:last-of-type {
-  border-bottom: none;
-}
-
+/* ── Keyword badges ── */
 .keyword-badge {
   background-color: #e8f5e9;
-  color: #2e7d32;
+  color: #1a3d2b;
   font-size: 0.8em;
   padding: 0.25rem 0.65rem;
   border-radius: 999px;
@@ -34,7 +80,65 @@ li {
   white-space: nowrap;
 }
 
-# Toggle buttons EN / DE
+/* ── Project cards (research index) ── */
+.project-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  padding: 1.2rem 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #2e7d32;
+}
+
+/* ── Status badges ── */
+.status-recruiting {
+  background-color: #e8f5e9;
+  color: #1a3d2b;
+  font-size: 0.75em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+.status-ongoing {
+  background-color: #e3edf7;
+  color: #1e3a5f;
+  font-size: 0.75em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+.status-completed {
+  background-color: #f0f0f0;
+  color: #444;
+  font-size: 0.75em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+/* ── Open Access badge ── */
+.oa-badge {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  font-size: 0.8em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+/* ── Publication entries ── */
+.pub-entry {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.pub-entry:last-of-type {
+  border-bottom: none;
+}
+
+/* ── Language toggle ── */
 .lang-de {
   display: none;
 }
@@ -61,42 +165,23 @@ li {
   color: white;
 }
 
-/* Project cards stylings */
-/* Option 1: subtle grey card with left accent border */
-.project-card-1 {
-  background-color: #f8f8f8;
-  border-left: 4px solid #2e7d32;
-  padding: 1.2rem 1.5rem;
-  border-radius: 0 8px 8px 0;
-  margin-bottom: 1.5rem;
+/* Tags */
+.tag {
+  font-size: 0.75em;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  font-weight: 500;
+  display: inline-block;
+  margin: 2px 2px 2px 0;
+  background: transparent;
 }
 
-/* Option 2: clean white card with full border and shadow */
-.project-card-2 {
-  background-color: #ffffff;
-  border: 1px solid #e0e0e0;
-  padding: 1.2rem 1.5rem;
-  border-radius: 8px;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+.tag-population {
+  color: #6b3fa0;
+  border: 1px solid #b49fd4;
 }
 
-/* Option 3: soft green tinted background */
-.project-card-3 {
-  background-color: #f1f8f1;
-  border: 1px solid #c8e6c9;
-  padding: 1.2rem 1.5rem;
-  border-radius: 8px;
-  margin-bottom: 1.5rem;
-}
-
-/* Link styling */
-
-a {
-  color: #749bae;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
+.tag-method {
+  color: #a03f7a;
+  border: 1px solid #d4a0c0;
 }

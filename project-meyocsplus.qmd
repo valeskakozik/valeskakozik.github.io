@@ -1,0 +1,171 @@
+---
+title: "Automated Cognitive Screening: Development of the MEYOCS-plus"
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
+function switchLang(lang) {
+  document.querySelector('.lang-en').style.display = 
+    lang === 'en' ? 'block' : 'none';
+  document.querySelector('.lang-de').style.display = 
+    lang === 'de' ? 'block' : 'none';
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+}
+</script>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" 
+  onclick="switchLang('en')">EN</button>
+  <button class="lang-btn" data-lang="de" 
+  onclick="switchLang('de')">DE</button>
+</div>
+```
+
+## Plain English Summary
+
+::: lang-en
+Detecting early memory and thinking problems is important — but 
+cognitive testing typically requires trained staff, specialist 
+equipment, and a clinic visit. This limits how widely and how often 
+such assessments can be carried out, particularly in rural areas or 
+settings with limited resources.
+
+The Oxford Cognitive Screen-Plus (OCS-Plus) is a tablet-based 
+cognitive test that has been validated across several patient 
+populations. However, it still requires a trained clinician to 
+administer it. To make cognitive screening more scalable and 
+accessible, a fully automated version — the 
+[MEYOCS-plus](https://meytec.de/meyocs-plus/) — was developed in 
+collaboration with the medical technology company Meytec. The 
+MEYOCS-plus can be completed independently by the user, with no 
+clinical staff required during the assessment itself.
+
+I contributed to this development process as one of the neuropsychological 
+experts on the project, working closely with Meytec's programmers to 
+translate the original test tasks into a fully automated format. This 
+involved drafting detailed task specifications, reviewing 
+implementations, and ensuring that the automated version preserved the 
+scientific and clinical integrity of the original instrument.
+
+The MEYOCS-plus has since become the foundation of an ongoing research project ([TEAM project](https://www.uniklinikum-jena.de/Uniklinikum+Jena/Aktuelles/Archiv/PM_Archiv+2024/Demenzerkrankungen+fr%C3%BChzeitig+erkennen+und+therapieren-pos-0.html)), which is evaluating the tool in real-world 
+settings, including rural healthcare environments, with the goal of 
+identifying people at early risk for memory problems and connecting them 
+with specialist care.
+
+The MEYOCSplus has also been used in further studies
+examining cognitive symptoms in patients with liver disease and
+Parkinson's disease, further demonstrating its versatility across
+different patient populations.
+:::
+
+::: lang-de
+Die frühzeitige Erkennung von Gedächtnis- und Denkproblemen ist 
+wichtig – doch kognitive Tests erfordern in der Regel geschultes 
+Personal, spezielle Geräte und einen Klinikbesuch. Dies schränkt 
+ein, wie breit und wie häufig solche Untersuchungen durchgeführt 
+werden können, insbesondere in ländlichen Gebieten oder 
+ressourcenarmen Umgebungen.
+
+Der Oxford Cognitive Screen-Plus (OCS-Plus) ist ein tabletbasierter 
+kognitiver Test, der für verschiedene Patientengruppen validiert 
+wurde. Er erfordert jedoch nach wie vor eine klinisch geschulte 
+Fachkraft für die Durchführung. Um kognitives Screening skalierbarer 
+und zugänglicher zu machen, wurde in Zusammenarbeit mit dem 
+Medizintechnikunternehmen Meytec eine vollständig automatisierte 
+Version entwickelt – der 
+[MEYOCS-plus](https://meytec.de/meyocs-plus/). Der MEYOCS-plus kann 
+von den Nutzerinnen und Nutzern selbstständig bearbeitet werden, 
+ohne dass während der Testung klinisches Personal anwesend sein muss.
+
+Ich war an diesem Entwicklungsprozess als neuropsychologische 
+Fachexpertin beteiligt und arbeitete eng mit den Programmierern von 
+Meytec zusammen, um die ursprünglichen Testaufgaben in ein 
+vollständig automatisiertes Format zu überführen. Dazu gehörten das 
+Verfassen detaillierter Aufgabenbeschreibungen, die Überprüfung der 
+Umsetzungen sowie die Sicherstellung, dass die automatisierte Version 
+die wissenschaftliche und klinische Qualität des Originalinstruments 
+beibehält.
+
+Der MEYOCS-plus bildet inzwischen die Grundlage eines laufenden Forschungsprojekts ([TEAM-Projekts](https://www.uniklinikum-jena.de/Uniklinikum+Jena/Aktuelles/Archiv/PM_Archiv+2024/Demenzerkrankungen+fr%C3%BChzeitig+erkennen+und+therapieren-pos-0.html)), das das Verfahren in 
+realen Versorgungsumgebungen, einschließlich ländlicher 
+Gesundheitseinrichtungen, erprobt. Ziel ist es, Menschen mit einem 
+frühen Risiko für Gedächtnisveränderungen zu identifizieren und sie 
+an spezialisierte Versorgungsangebote weiterzuvermitteln.
+
+Der MEYOCSplus wurde zudem in weiteren Studien zur Erfassung
+kognitiver Symptome bei Patientinnen und Patienten mit Lebererkrankungen
+und Morbus Parkinson eingesetzt und zeigt damit seine Einsatzbreite
+über verschiedene Patientengruppen hinaus.
+:::
+
+&nbsp;
+
+*<!-- TODO: Add figure here when available -->*
+
+---
+
+## For Researchers
+
+**Status:** [Ongoing]{.status-ongoing}
+
+**My role:** Neuropsychological expert for instrument development
+
+**Responsibilities:** Scientific liaison between research team and
+industry partner (Meytec); drafting of detailed neuropsychological
+task specifications for automated implementation; iterative review
+of programmer implementations; conference presentations of
+preliminary data at international conferences.
+
+**Development:**
+The [MEYOCS-plus](https://meytec.de/meyocs-plus/) is a fully automated 
+adaptation of the tablet-based OCS-Plus, developed in collaboration 
+with Meytec to enable standardised cognitive screening with minimal 
+personnel requirements. Development involved close translation of 
+established OCS-Plus tasks into a self-administered digital format, 
+with particular attention to preserving psychometric properties and 
+clinical validity. The instrument targets low-threshold deployment 
+in settings where traditional neuropsychological assessment is 
+impractical, including telemedicine and rural care contexts.
+
+**TEAM Project - Translational Implementation:**
+The MEYOCS-plus is now the basis of an independent PhD project 
+(TEAM project) examining its real-world application. The study 
+deploys the tool in rural healthcare settings to identify individuals 
+at risk for MCI, with a structured referral pathway to 
+specialist assessment at the Memory Centre, Department of Neurology, 
+Jena University Hospital. Clinical validation uses algorithm-based 
+classification confirmed against the CERAD battery. Normative data 
+are being established in a sample of over 300 healthy adults.
+
+**Further Clinical Applications:**
+
+The MEYOCS-plus has been deployed in two additional studies,
+in which I contributed as neuropsychological expert and manuscript
+co-author.
+
+*Hepatic encephalopathy in liver cirrhosis:* A prospective study
+of 103 patients at Jena University Hospital examined whether the
+MEYOCS-plus can detect minimal hepatic encephalopathy (HE), a common
+but diagnostically challenging complication of liver cirrhosis.
+The tool was successfully administered in 95 patients and showed
+significant deviations from normative values in memory, attention,
+and processing speed subtests, with results correlating well with
+established psychometric measures. Manuscript in preparation.
+
+*Cognitive deficits in Parkinson's disease:* A feasibility and
+validity study in 50 patients with clinically confirmed Parkinson's
+disease examined the MEYOCS-plus as a screening tool for cognitive
+deficit profiles. All participants successfully completed the
+assessment. Cluster analysis revealed three distinct cognitive
+deficit profiles. Results support the MEYOCS-plus as a practical and
+accepted instrument for domain-specific cognitive screening in
+Parkinson's patients. Manuscript in preparation.
+
+**Publications:** Manuscripts in preparation.

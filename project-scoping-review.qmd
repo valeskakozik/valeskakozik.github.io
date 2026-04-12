@@ -1,0 +1,96 @@
+---
+title: "Digital Neuropsychological Assessment in Neurocognitive Disorders: A Scoping Review"
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
+function switchLang(lang) {
+  document.querySelector('.lang-en').style.display = 
+    lang === 'en' ? 'block' : 'none';
+  document.querySelector('.lang-de').style.display = 
+    lang === 'de' ? 'block' : 'none';
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+}
+</script>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" 
+  onclick="switchLang('en')">EN</button>
+  <button class="lang-btn" data-lang="de" 
+  onclick="switchLang('de')">DE</button>
+</div>
+```
+
+## Plain English Summary
+
+::: lang-en
+Digital tools for assessing memory and thinking are becoming
+increasingly common in both research and clinical settings. However,
+the quality, scientific rigour, and practical applicability of these
+tools varies considerably.
+
+This scoping review aims to map the landscape of digital
+neuropsychological tests currently used in the assessment of
+neurocognitive disorders. By systematically searching and reviewing
+the published literature, we aim to provide a structured overview of
+available tools, covering the cognitive domains they assess, their
+psychometric quality, the availability of normative data, and their
+suitability for clinical use.
+
+The findings will help researchers and clinicians make more informed
+decisions about which digital assessment tools are appropriate for
+their specific needs, and identify where further development and
+validation work is needed.
+:::
+
+::: lang-de
+Digitale Verfahren zur Erfassung von Gedächtnis- und Denkleistungen
+werden in Forschung und klinischer Praxis immer häufiger eingesetzt.
+Allerdings unterscheiden sich diese Verfahren erheblich in ihrer
+Qualität, wissenschaftlichen Fundierung und praktischen
+Anwendbarkeit.
+
+Dieses Scoping Review zielt darauf ab, die Landschaft digitaler
+neuropsychologischer Tests zu kartieren, die aktuell in der Diagnostik
+neurokognitiver Störungen eingesetzt werden. Durch eine systematische
+Literaturrecherche und -auswertung sollen verfügbare Verfahren
+strukturiert dargestellt werden – hinsichtlich der erfassten kognitiven
+Domänen, ihrer psychometrischen Qualität, der Verfügbarkeit von
+Normwerten sowie ihrer Eignung für den klinischen Einsatz.
+
+Die Ergebnisse sollen Forschenden und Kliniker:innen helfen, fundierte
+Entscheidungen bei der Auswahl digitaler Assessmentverfahren zu treffen,
+und aufzeigen, wo weiterer Entwicklungs- und Validierungsbedarf besteht.
+:::
+
+---
+
+## For Researchers
+
+**Status:** [Ongoing]{.status-ongoing}
+
+**My role:** Co-reviewer and co-author
+
+**Responsibilities:** Conceptualisation and planning; search strategy
+development; title and abstract screening; full-text review; manuscript
+co-authorship.
+
+**Design:**
+Scoping review following systematic methods. A sensitive database
+search of PubMed (inception to December 2024) identified 7,938
+publications. Title and abstract screening was conducted in duplicate.
+Inclusion criteria: original articles focusing on the conception or
+evaluation of digital cognitive tests in adults (≥18 years),
+irrespective of aetiology. Full-text review of over 1,000 articles
+is ongoing. Data extraction covers cognitive domains assessed,
+validity, reliability, and normative data, using Covidence systematic
+review software.
+
+**Publications:** Full-text review ongoing; manuscript to follow.

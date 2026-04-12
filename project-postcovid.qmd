@@ -31,27 +31,27 @@ function switchLang(lang) {
 ```
 
 ::: lang-en
-COVID-19 can affect the brain as well as the body. Even after the initial infection has passed, some people continue to struggle with memory, concentration, mental speed, and tiredness. These problems are often described as “brain fog”.
+COVID-19 can affect the brain as well as the body. For some people, problems with memory, concentration, mental speed, and fatigue continue long after the initial infection. These symptoms are often described as “brain fog”.
 
-In this project, we studied thinking and memory problems in a large group of people with post-COVID syndrome. We used established cognitive tests to look at different areas such as attention, memory, and the ability to plan or switch between tasks. We also invited some participants back several months later to see whether these problems had improved, stayed the same, or worsened over time.
+In this project, we examined these difficulties in people with post-COVID syndrome using both standard neuropsychological tests and short computer-based tasks. This allowed us to look at memory, attention, and how quickly people could process visual information and respond.
 
-We found that, on average, people with post-COVID performed worse than healthy individuals in several areas of thinking, especially attention, memory, and more complex mental tasks. They also reported more fatigue and more symptoms of low mood. Depending on the area tested, about 10% to 20% of patients showed difficulties severe enough to be considered clinically relevant.
+We found that people with post-COVID performed worse than healthy individuals in several areas of thinking, especially attention, memory, and more complex mental tasks. A particularly important finding was that many patients showed clear slowing in their response speed, even on very simple tasks. This slowing was seen in patient groups in both Germany and the UK and could not be explained simply by fatigue, mood, sleep problems, or related symptoms.
 
-Memory problems were most closely linked to how much people felt affected in their daily lives. This suggests that memory difficulties may be especially important for everyday functioning after COVID. More severe cognitive problems were also linked to older age, greater fatigue, and a more severe initial illness.
+Depending on the area tested, around 10% to 20% of patients showed difficulties severe enough to be clinically relevant. Memory problems were also closely linked to how much people felt affected in everyday life.
 
-When we tested the same patients again a few months later, we found no clear sign of meaningful improvement. This suggests that for some people, cognitive recovery after COVID can be slow, and difficulties may last well beyond the initial infection.
+When we reassessed the same patients with post-COVID several months later, we found no clear sign of meaningful recovery. Overall, our findings show that cognitive problems after COVID are measurable, clinically relevant, and may persist for many months.
 :::
 
 ::: lang-de
-COVID-19 kann sowohl das Gehirn als auch den Körper beeinträchtigen. Selbst nachdem die ursprüngliche Infektion überwunden ist, haben manche Menschen weiterhin mit Gedächtnis-, Konzentrations- und Denkgeschwindigkeitsproblemen sowie Müdigkeit zu kämpfen. Diese Probleme werden oft als „Brain Fog“ (Gehirnnebel) bezeichnet.
+COVID-19 kann sowohl das Gehirn als auch den Körper beeinträchtigen. Bei manchen Menschen halten Probleme mit dem Gedächtnis, der Konzentration, der geistigen Reaktionsgeschwindigkeit und der Müdigkeit noch lange nach der ursprünglichen Infektion an. Diese Symptome werden oft als „Brain Fog“ (Gehirnnebel) bezeichnet.
 
-In diesem Projekt untersuchten wir Denk- und Gedächtnisprobleme bei einer großen Gruppe von Menschen mit Post-COVID-Syndrom. Wir verwendeten etablierte kognitive Tests, um verschiedene Bereiche wie Aufmerksamkeit, Gedächtnis und die Fähigkeit zur Planung oder zum Wechseln zwischen Aufgaben zu untersuchen. Wir luden einige Teilnehmer auch einige Monate später erneut ein, um festzustellen, ob sich diese Probleme im Laufe der Zeit verbessert, unverändert geblieben oder verschlimmert hatten.
+In diesem Projekt haben wir diese Schwierigkeiten bei Menschen mit Post-COVID-Syndrom sowohl mithilfe von standardisierten neuropsychologischen Tests als auch mit kurzen computergestützten Aufgaben untersucht. So konnten wir das Gedächtnis, die Aufmerksamkeit sowie die Geschwindigkeit, mit der die Probanden visuelle Informationen verarbeiten und darauf reagieren konnten, untersuchen.
 
-Wir stellten fest, dass Menschen mit Post-COVID-Syndrom in mehreren Bereichen des Denkens, insbesondere bei der Aufmerksamkeit, dem Gedächtnis und komplexeren geistigen Aufgaben, im Durchschnitt etwas schlechter abschnitten als gesunde Personen. Sie berichteten zudem über stärkere Müdigkeit und mehr Symptome einer gedrückten Stimmung. Je nach getestetem Bereich zeigten etwa 10% bis 20% der Menschen mit Post-COVID-Syndrom Schwierigkeiten, die schwerwiegend genug waren, um als klinisch relevant eingestuft zu werden.
+Wir stellten fest, dass Menschen mit Post-COVID-Syndrom in mehreren Bereichen des Denkens schlechter abschnitten als gesunde Personen, insbesondere bei der Aufmerksamkeit, dem Gedächtnis und komplexeren geistigen Aufgaben. Ein besonders wichtiger Befund war, dass viele Patienten selbst bei sehr einfachen Aufgaben eine deutliche Verlangsamung ihrer Reaktionsgeschwindigkeit zeigten. Diese Verlangsamung wurde sowohl bei Patientengruppen in Deutschland als auch im Vereinigten Königreich beobachtet und ließ sich nicht einfach durch Müdigkeit, Stimmung, Schlafprobleme oder damit verbundene Symptome erklären.
 
-Gedächtnisprobleme standen in engem Zusammenhang damit, wie stark sich die Betroffenen in ihrem Alltag beeinträchtigt fühlten. Dies deutet darauf hin, dass Gedächtnisstörungen für die Alltagsbewältigung nach einer COVID-Erkrankung von besonderer Bedeutung sein könnten. Schwerwiegendere kognitive Probleme standen zudem im Zusammenhang mit höherem Alter, stärkerer Müdigkeit und einem schwereren aktuen Krankheitsverlauf.
+Je nach untersuchtem Bereich wiesen etwa 10% bis 20% der Menschen mit post-COVID Schwierigkeiten auf, die schwerwiegend genug waren, um klinisch relevant zu sein. Gedächtnisprobleme standen zudem in engem Zusammenhang damit, inwieweit sich die Betroffenen im Alltag beeinträchtigt fühlten.
 
-Als wir dieselben Menschen mit Post-COVID-Syndrom einige Monate später erneut untersuchten, fanden wir keine eindeutigen Anzeichen für eine nennenswerte Besserung. Dies deutet darauf hin, dass die kognitive Erholung nach einer COVID-Erkrankung bei manchen Menschen langsam verlaufen kann und die Schwierigkeiten weit über die ursprüngliche Infektion hinaus andauern können. 
+Als wir dieselben Menschen mit post-COVID einige Monate später erneut untersuchten, fanden wir keine eindeutigen Anzeichen für eine nennenswerte Besserung. Insgesamt zeigen unsere Ergebnisse, dass kognitive Probleme nach einer COVID-Erkrankung messbar und klinisch relevant sind und über viele Monate hinweg bestehen bleiben können.
 :::
 
 <!-- TODO: Add figure here when available - consider creating an R plot 
@@ -61,12 +61,17 @@ showing cognitive domain profiles -->
 
 ## For Researchers
 
-**Status:** Completed
+**Status:** [Completed]{.status-completed}
 
-**My role:** Doctoral candidate — data collection, analysis, and writing
+**My role:** Doctoral candidate
+
+**Responsibilities:** Recruitment; data collection; data analysis; scientific writing and publication; 
+international conference presentations including a poster prize at a
+conference specifically designed to be accessible to people living
+with post-COVID syndrome.
 
 **Design:** Cross-sectional comparison of post-COVID patients and healthy reference participants, followed by a longitudinal follow-up assessment of the patient group several months after initial testing. Standardised digital neuropsychological assessment, alongside measures of fatigue and depression. Novel digital testing methods were also developed and evaluated within this project.
 
 **Key findings:** - Significant group differences between patients with post-COVID syndrome and healthy participants across attention, executive functioning, and memory, as well as fatigue and depression - 10–20% of patients (domain-dependent) performed \>1.5 SD below the control mean - Cognitive symptoms were associated with older age, fatigue severity, and initial disease severity - Memory deficits showed the strongest association with subjective cognitive complaints - No significant associations with time since infection, depression, or pre-existing conditions - At follow-up, no evidence for clinically meaningful change in cognitive deficits was observed relative to the initial assessment
 
-**Publications:** - Kozik et al. (2023). Characterization of neurocognitive deficits in patients with post-COVID-19 syndrome. *Frontiers in Psychology.* [DOI: 10.3389/fpsyg.2023.1233144](https://doi.org/10.3389/fpsyg.2023.1233144) - Zhao et al. (2024) Long COVID is associated with severe cognitive slowing: a multicentre cross-sectional study. *eClinicalMedicine.* [DOI: 10.1016/j.eclinm.2024.102434](https://doi.org/10.1016/j.eclinm.2024.102434) - Kozik et al. (in press). Longitudinal stability of cognitive impairments in post-COVID-19 syndrome assessed with the tablet-based Oxford Cognitive Screen-Plus. *Scientific Reports.* [DOI: 10.1038/s41598-026-48476-5](https://doi.org/10.1038/s41598-026-48476-5)
+**Publications:** - Kozik et al. (2023). Characterization of neurocognitive deficits in patients with post-COVID-19 syndrome. *Frontiers in Psychology.* [DOI: 10.3389/fpsyg.2023.1233144](https://doi.org/10.3389/fpsyg.2023.1233144) - Zhao et al. (2024). Long COVID is associated with severe cognitive slowing: a multicentre cross-sectional study. *eClinicalMedicine.* [DOI: 10.1016/j.eclinm.2024.102434](https://doi.org/10.1016/j.eclinm.2024.102434) - Kozik et al. (in press). Longitudinal stability of cognitive impairments in post-COVID-19 syndrome assessed with the tablet-based Oxford Cognitive Screen-Plus. *Scientific Reports.* [DOI: 10.1038/s41598-026-48476-5](https://doi.org/10.1038/s41598-026-48476-5)

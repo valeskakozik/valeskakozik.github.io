@@ -1,0 +1,157 @@
+---
+title: "MS-Children: Neurodevelopment in Children Exposed to MS Relapse Treatment Before Birth"
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
+function switchLang(lang) {
+  document.querySelector('.lang-en').style.display = 
+    lang === 'en' ? 'block' : 'none';
+  document.querySelector('.lang-de').style.display = 
+    lang === 'de' ? 'block' : 'none';
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+}
+</script>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" 
+  onclick="switchLang('en')">EN</button>
+  <button class="lang-btn" data-lang="de" 
+  onclick="switchLang('de')">DE</button>
+</div>
+```
+
+## Plain English Summary
+
+::: lang-en
+Multiple sclerosis (MS) often affects women during their childbearing
+years. When relapses occur during pregnancy, they may be treated with
+high-dose glucocorticoids such as methylprednisolone. While this
+treatment can be important for the mother, much less is known about
+whether exposure before birth may have longer-term effects on the child.
+
+The MS-Children project examines whether prenatal exposure to
+methylprednisolone is linked to later differences in children's
+development. We compare children whose mothers received this treatment
+during pregnancy with children of mothers with MS who were not exposed
+to the medication before birth.
+
+Our aim is not only to look at general development, but also at
+specific areas that may be relevant for later health and functioning.
+These include thinking and memory, behaviour, stress regulation, and
+brain development. To do this, the project combines cognitive
+assessments with methods such as brain imaging, measures of stress
+hormones, and other biological markers.
+
+The study is based on the idea that experiences before birth can
+influence later development. By investigating this question in a
+clinical population, we hope to better understand the long-term safety
+of an important treatment used during pregnancy.
+
+Overall, the project aims to provide evidence that can support more
+informed medical decision-making for pregnant women with MS and
+their families.
+:::
+
+::: lang-de
+Multiple Sklerose (MS) betrifft häufig Frauen im gebärfähigen Alter.
+Wenn während der Schwangerschaft Schübe auftreten, kann eine
+Behandlung mit hochdosierten Glukokortikoiden wie Methylprednisolon
+notwendig sein. Während diese Therapie für die Mutter wichtig sein
+kann, ist bislang wenig darüber bekannt, ob eine Exposition vor der
+Geburt längerfristige Auswirkungen auf das Kind haben könnte.
+
+Das Projekt MS-Kinder untersucht, ob eine vorgeburtliche Exposition
+gegenüber Methylprednisolon mit späteren Unterschieden in der
+Entwicklung von Kindern zusammenhängt. Wir vergleichen Kinder, deren
+Mütter diese Behandlung während der Schwangerschaft erhalten haben,
+mit Kindern von Müttern mit MS, die vor der Geburt nicht dem
+Medikament ausgesetzt waren.
+
+Unser Ziel ist es nicht nur, die allgemeine Entwicklung zu
+untersuchen, sondern auch spezifische Bereiche, die für die spätere
+Gesundheit und das Funktionieren relevant sein könnten. Dazu gehören
+Denken und Gedächtnis, Verhalten, Stressregulation und
+Gehirnentwicklung. Hierfür kombiniert das Projekt kognitive
+Assessments mit Methoden wie Bildgebung des Gehirns, Messungen von
+Stresshormonen und anderen biologischen Markern.
+
+Die Studie basiert auf der Überlegung, dass Erfahrungen vor der
+Geburt die spätere Entwicklung beeinflussen können. Indem wir diese
+Frage in einer klinischen Population untersuchen, hoffen wir, die
+Langzeitsicherheit einer wichtigen Behandlung in der Schwangerschaft
+besser zu verstehen.
+
+Insgesamt zielt das Projekt darauf ab, Erkenntnisse zu liefern, die
+eine fundiertere medizinische Entscheidungsfindung für schwangere
+Frauen mit MS und ihre Familien unterstützen können.
+:::
+
+&nbsp;
+
+*<!-- TODO: Add figure here when available -->*
+
+---
+
+## For Researchers
+
+**Status:** [Ongoing]{.status-ongoing}
+
+**My role:** Doctoral candidate
+
+**Responsibilities:** Data collection across both study centres
+(Jena and Bochum); scoring and evaluation of neuropsychological
+assessments; database maintenance; personalised feedback to
+participating families; data analysis; manuscript drafting and
+editing across multiple planned outputs; international conference
+presentations.
+
+**Design:**
+Cross-sectional, two-centre study. School-aged children (mean age
+~9–10 years) with prenatal exposure to methylprednisolone due to
+maternal MS relapse treatment were compared with a non-exposed
+reference group, all born to mothers with MS. Participants were
+primarily identified via the German MS and Pregnancy Registry.
+Primary outcome: global cognitive ability (standardised IQ test).
+Secondary outcomes: attention, behaviour, motor performance,
+electrocortical activity, and structural brain development assessed
+via high-resolution MRI including voxel-based and surface-based
+morphometry and a machine learning–based brain age framework.
+
+**Key findings (primary outcome paper):**
+- No significant difference in global IQ between MP-exposed
+(n = 30; IQ: 103.0) and non-exposed children (n = 30; IQ: 101.5)
+- No group differences in neuropsychological secondary outcomes
+or electrocortical parameters after correction for multiple
+comparisons
+- MRI analyses revealed no differences in grey matter volume,
+cortical thickness, gyrification, or brain age
+- Findings suggest that MP exposure, predominantly in the second
+trimester at the doses used, does not measurably affect
+neurodevelopment, though the study was not powered to detect
+subtle dose-response effects
+
+**Trial registration:**
+[NCT04832269](https://clinicaltrials.gov/ct2/show/NCT04832269?id=ZKSJ0130)
+
+**Funding:**
+Grant for Multiple Sclerosis Innovation 2020 (Merck Healthcare KGaA);
+BMFTR (CEPRE; funding reference: 01GR2305A).
+
+**Publications:**
+- Kozik V et al. (2025). Multiple Sclerosis Relapse Treatment
+During Pregnancy and Offspring Functional and Structural
+Neurodevelopment. *Neurology.*
+[DOI: 10.1212/WNL.0000000000214217](https://doi.org/10.1212/WNL.0000000000214217)
+- Kozik V et al. (2022). Protocol for a Cross-Sectional Study:
+Effects of a Multiple Sclerosis Relapse Therapy With
+Methylprednisolone on Offspring Neurocognitive Development and
+Behavior (MS-Children). *Frontiers in Neurology.*
+[DOI: 10.3389/fneur.2022.830057](https://doi.org/10.3389/fneur.2022.830057)

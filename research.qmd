@@ -2,18 +2,79 @@
 title: "Research"
 ---
 
-## Ongoing Projects
+*page under construction ...*
+
+## Ongoing
 
 *Projects currently in progress — click any project to read more.*
 
- 
+::: project-card
+**[DigA-kog: Digital Screening for Early Detection of Mild Cognitive Impairment](project-digakog.qmd)**  
+[Data collection ongoing]{.status-ongoing}&nbsp;
 
-## Completed Projects
+[MCI / Dementia]{.tag .tag-population} [Digital Assessment]{.tag .tag-method} [OCS-Plus]{.tag .tag-method} [Normative Study]{.tag .tag-method} [Multi-centre]{.tag .tag-method} [Validation]{.tag .tag-method}
+
+Multi-centre validation study evaluating a self-administered digital
+cognitive screening tool for the early detection of mild cognitive
+impairment, including normative data collection and wearable integration.
+:::
+
+::: project-card
+**[Early Detection of Memory Problems in Amnestic Mild Cognitive Impairment](project-ocsplus-amci.qmd)**  
+[Analysis and write-up]{.status-ongoing}&nbsp;
+
+[MCI / Dementia]{.tag .tag-population} [Digital Assessment]{.tag .tag-method} [OCS-Plus]{.tag .tag-method} [Clinical Validation]{.tag .tag-method}
+
+Validation study examining the OCS-Plus tablet-based test for the
+detection of amnestic mild cognitive impairment, with a focus on
+delayed memory as an early marker of Alzheimer's-related change.
+:::
+
+::: project-card
+**[Automated Cognitive Screening: Development of the MEYOCS-plus](project-meyocsplus.qmd)**  
+[Ongoing]{.status-ongoing}&nbsp;
+
+[MCI / Dementia]{.tag .tag-population} [Parkinson's Disease]{.tag .tag-population} [Liver Disease]{.tag .tag-population} [OCS-Plus]{.tag .tag-method} [MEYOCS-plus]{.tag .tag-method} [Digital Assessment]{.tag .tag-method} [Clinical Validation]{.tag .tag-method}
+
+Neuropsychological development of a fully automated adaptation of the 
+OCS-Plus tablet test, in collaboration with industry, enabling 
+self-administered cognitive screening without clinical staff. 
+Now the basis of an independent validation and implementation study 
+in rural healthcare settings.
+:::
+
+::: project-card
+**[MS-Children: Neurodevelopment After Prenatal Exposure to MS Treatment](project-mschildren.qmd)**  
+[Ongoing]{.status-ongoing}&nbsp;
+
+[Children / Neurodevelopment]{.tag .tag-population} [Foetal Programming]{.tag .tag-method} [Multi-centre]{.tag .tag-method} [MRI / Neuroimaging]{.tag .tag-method}
+
+Cross-sectional two-centre study examining whether prenatal exposure
+to methylprednisolone used to treat MS relapses during pregnancy
+affects cognitive development, behaviour, and brain structure in
+school-aged children.
+:::
+
+::: project-card
+**[Digital Neuropsychological Assessment: A Scoping Review](project-scoping-review.qmd)**  
+[Ongoing]{.status-ongoing}  
+[Neurocognitive disorders]{.tag .tag-population} [Digital Assessment]{.tag .tag-method} [Review]{.tag .tag-method}
+
+Systematic scoping review mapping the landscape of digital
+neuropsychological tests for neurocognitive disorders, examining
+psychometric quality, normative data availability, and clinical
+applicability across the published literature.
+:::
+
+## Completed
 
 *Concluded projects — click any project to read more.*
 
-::: project-card-2
+::: project-card
 [**Cognitive Impairment in Post-COVID Syndrome: A Cross-Sectional and Longitudinal Study**](project-postcovid.qmd)\
-*Completed · Doctoral work*\
+[Completed]{.status-completed} &nbsp;
+
+[Post-COVID]{.tag .tag-population} [OCS-Plus]{.tag .tag-method} [Longitudinal]{.tag .tag-method}
+
 Neuropsychological characterisation of cognitive difficulties in post-COVID patients, including a longitudinal follow-up assessment.
 :::

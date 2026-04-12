@@ -14,7 +14,7 @@ gap: 2rem; margin-bottom: 2rem;">
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; 
     margin-top: 0.75rem;">
       <span class="keyword-badge">Translational Neuropsychology</span>
-      <span class="keyword-badge">Digital Cognitive Assessment Tools</span>
+      <span class="keyword-badge">Digital Cognitive Assessment</span>
       <span class="keyword-badge">Early Detection</span>
       <span class="keyword-badge">Neurocognitive Consequences of Neurological Conditions</span>
       <span class="keyword-badge">Psychometrics</span>
@@ -30,7 +30,7 @@ gap: 2rem; margin-bottom: 2rem;">
 
 My work focuses on the assessment and early detection of neurocognitive dysfunction, with a particular interest in developing and validating digital assessment tools for clinical research, with potential application in clinical practice for selected tools. I collaborate with academic, clinical, and industry partners to adapt, validate, and norm these tools across different patient populations and healthcare settings, with the aim of producing instruments that are both scientifically robust and clinically meaningful.
 
-My research spans cognitive impairment in neurodegenerative conditions, vascular and cerebrovascular disease, and post-COVID syndrome. Alongside this, I have worked in research on foetal programming, where we examine the long-term neurocognitive and neurodevelopmental consequences of prenatal glucocorticoid exposure in children.
+My research spans cognitive impairment in neurodegenerative conditions, cerebrovascular disease, and post-COVID syndrome. Alongside this, I have worked in research on foetal programming, where we examine the long-term neurocognitive and neurodevelopmental consequences of prenatal glucocorticoid exposure in children.
 
 I work within interdisciplinary, multi-centre collaborations involving academic, clinical, and industry partners across Europe and beyond.
 

@@ -12,8 +12,10 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: skills.qmd
+        text: Skills
       - href: participate.qmd
-        text: Participate / An Studien teilnehmen
+        text: Participate / Teilnahme
       - href: publications.qmd
         text: Publications
       - href: contact.qmd

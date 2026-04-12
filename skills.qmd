@@ -1,0 +1,132 @@
+---
+title: "Skills & Development"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Neuropsychological Assessment
+
+I have extensive experience with neuropsychological assessment in both
+clinical and research contexts, including administration,
+interpretation, training of others, and adaptation for research
+protocols. This spans a broad range of standardised tools, from brief
+cognitive screenings to comprehensive neuropsychological batteries, as
+well as digital and computerised instruments, symptom validity measures,
+and questionnaire-based assessment of mood, fatigue, psychiatric and
+somatic symptoms.
+
+------------------------------------------------------------------------
+
+## Research Methods & Statistics
+
+**Statistical modelling**\
+Inferential statistics; robust statistical modelling; linear and mixed
+models; normative modelling; psychometric methods including reliability,
+validity, and diagnostic accuracy; network analysis and graphical
+modelling; voxel-based lesion-symptom mapping (VLSM); ROC analysis.
+
+**Open science and research design**\
+Trial registration; ethics applications (including multi-centre and
+industry-collaboration contexts); study protocol development;
+pre-registration; research data management. Completed the [Improving
+Your Statistical
+Inferences](https://www.coursera.org/learn/statistical-inferences)
+course by Daniel Lakens (Eindhoven University of Technology).
+
+**Data management**\
+Large and complex clinical datasets; automated workflow development;
+database design and maintenance; data curation and quality control.
+
+------------------------------------------------------------------------
+
+## Programming & Software
+
+**Statistical and scientific computing**\
+R (primary language; extensive experience including data wrangling,
+modelling, visualisation, and custom function development); MATLAB;
+Python (working knowledge).
+
+**Other tools**\
+Reference management: Zotero, EndNote, Mendeley · Systematic review:
+Covidence · Figure editing: Inkscape · Version control: Git / GitHub
+
+------------------------------------------------------------------------
+
+## Professional Development
+
+**Leadership & Science Management — Certification Programme**\
+*Friedrich-Schiller-University Jena*\
+
+An ongoing certification programme spanning three tracks: Leadership in
+Science, Leadership in Industry and Society, and Science Management.
+
+Completed modules:
+
+-   Good Scientific Practice
+-   Fundamentals of Business Management
+-   Project Management
+-   Applying for Third Party Funding
+-   Gender and Diversity in Research
+
+Some upcoming modules:
+
+-   Research Data Management
+-   Intersectional Data Science
+-   Leadership Skills
+-   Interdisciplinary Communication and Collaboration
+
+**Clinical continuing education**\
+Regular participation in internal workshops and lectures covering
+various topics, such as dementia, neurodegeneration, stroke, Parkinson's
+disease, post-COVID syndrome, fatigue, and subjective cognitive
+impairment. Semi-regular participation in departmental
+neuropsychological case discussions.
+
+Internal presentations delivered on current and completed research
+projects, and e.g., on cultural and linguistic influences on
+neuropsychological assessment.
+
+------------------------------------------------------------------------
+
+## Networks & Collaboration
+
+**Within the research community**  
+Journal club (Methods, Open Science & Cognitive Ageing): Regular participant in a peer-led journal club focusing on
+methodological topics, open science and reproducibility, mild cognitive
+impairment, neuroimaging, and academic culture.
+
+**Junior Researchers' Lab Meeting**\
+Initiated a regular meeting for junior researchers within the lab (independent of senior
+faculty) providing a space for research updates, peer support,
+coordination, and collaborative problem-solving.
+
+**Clinical and interdisciplinary collaboration**  
+Regular collaboration with colleagues from different disciplines, including neurology,
+internal medicine, and gynaecology, both within Jena University
+Hospital and across partner institutions. Experienced in navigating
+the interface between research and clinical care, including coordinating
+study procedures within busy clinical departments and contributing to
+treatment-relevant research questions.
+
+**Academic networks**  
+Active involvement in national and international research collaborations,
+with partner institutions and collaborators in Germany, the United
+Kingdom, the United States, and Canada. Experienced in coordinating
+research across sites, aligning protocols, and maintaining communication
+between geographically distributed teams.
+
+**Industry and technology partnerships**  
+Substantial experience collaborating with industry partners, including
+medical technology companies and startups. Roles have included serving
+as scientific liaison between research teams and software developers,
+translating neuropsychological requirements into technical
+specifications, and reviewing implementations iteratively to ensure
+scientific and clinical integrity throughout the development process.
+
+------------------------------------------------------------------------
+
+
+## Languages
+
+English — C2 (proficient) · German — native
