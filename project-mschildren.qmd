@@ -28,9 +28,9 @@ function switchLang(lang) {
 </div>
 ```
 
-## Plain English Summary
-
 ::: lang-en
+## Plain Language Summary
+
 Multiple sclerosis (MS) often affects women during their childbearing
 years. When relapses occur during pregnancy, they may be treated with
 high-dose glucocorticoids such as methylprednisolone. While this
@@ -61,6 +61,8 @@ their families.
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 Multiple Sklerose (MS) betrifft häufig Frauen im gebärfähigen Alter.
 Wenn während der Schwangerschaft Schübe auftreten, kann eine
 Behandlung mit hochdosierten Glukokortikoiden wie Methylprednisolon

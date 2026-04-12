@@ -2,8 +2,6 @@
 title: "Cognitive Impairment in Post-COVID Syndrome: A Cross-Sectional and Longitudinal Study"
 ---
 
-## Plain Language Summary
-
 ```{=html}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -31,6 +29,8 @@ function switchLang(lang) {
 ```
 
 ::: lang-en
+## Plain Language Summary
+
 COVID-19 can affect the brain as well as the body. For some people, problems with memory, concentration, mental speed, and fatigue continue long after the initial infection. These symptoms are often described as “brain fog”.
 
 In this project, we examined these difficulties in people with post-COVID syndrome using both standard neuropsychological tests and short computer-based tasks. This allowed us to look at memory, attention, and how quickly people could process visual information and respond.
@@ -43,6 +43,8 @@ When we reassessed the same patients with post-COVID several months later, we fo
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 COVID-19 kann sowohl das Gehirn als auch den Körper beeinträchtigen. Bei manchen Menschen halten Probleme mit dem Gedächtnis, der Konzentration, der geistigen Reaktionsgeschwindigkeit und der Müdigkeit noch lange nach der ursprünglichen Infektion an. Diese Symptome werden oft als „Brain Fog“ (Gehirnnebel) bezeichnet.
 
 In diesem Projekt haben wir diese Schwierigkeiten bei Menschen mit Post-COVID-Syndrom sowohl mithilfe von standardisierten neuropsychologischen Tests als auch mit kurzen computergestützten Aufgaben untersucht. So konnten wir das Gedächtnis, die Aufmerksamkeit sowie die Geschwindigkeit, mit der die Probanden visuelle Informationen verarbeiten und darauf reagieren konnten, untersuchen.

@@ -28,9 +28,9 @@ function switchLang(lang) {
 </div>
 ```
 
-## Plain English Summary
-
 ::: lang-en
+## Plain Language Summary
+
 Digital tools for assessing memory and thinking are becoming
 increasingly common in both research and clinical settings. However,
 the quality, scientific rigour, and practical applicability of these
@@ -51,6 +51,8 @@ validation work is needed.
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 Digitale Verfahren zur Erfassung von Gedächtnis- und Denkleistungen
 werden in Forschung und klinischer Praxis immer häufiger eingesetzt.
 Allerdings unterscheiden sich diese Verfahren erheblich in ihrer
@@ -88,7 +90,7 @@ search of PubMed (inception to December 2024) identified 7,938
 publications. Title and abstract screening was conducted in duplicate.
 Inclusion criteria: original articles focusing on the conception or
 evaluation of digital cognitive tests in adults (≥18 years),
-irrespective of aetiology. Full-text review of over 1,000 articles
+irrespective of aetiology. Full-text review of over 1000 articles
 is ongoing. Data extraction covers cognitive domains assessed,
 validity, reliability, and normative data, using Covidence systematic
 review software.

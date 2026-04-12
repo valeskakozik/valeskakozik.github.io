@@ -27,10 +27,9 @@ function switchLang(lang) {
   onclick="switchLang('de')">DE</button>
 </div>
 ```
-
-## Plain English Summary
-
 ::: lang-en
+## Plain Language Summary
+
 With new treatment options emerging for early Alzheimer's disease,
 detecting cognitive changes at an early stage has become increasingly
 important. In this project, we examined whether a tablet-based
@@ -59,6 +58,8 @@ clinical settings.
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 Mit neuen Behandlungsmöglichkeiten für frühe Alzheimer-Erkrankungen
 wird es immer wichtiger, kognitive Veränderungen bereits in einem
 frühen Stadium zu erkennen. In diesem Projekt haben wir untersucht,

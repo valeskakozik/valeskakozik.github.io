@@ -28,9 +28,9 @@ function switchLang(lang) {
 </div>
 ```
 
-## Plain English Summary
-
 ::: lang-en
+## Plain Language Summary
+
 Subtle changes in memory and thinking can be difficult to detect early,
 even though early identification is important for clinical care and
 research. At present, cognitive assessment often depends on face-to-face
@@ -61,6 +61,8 @@ more accessible detection of cognitive decline.
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 Leichte Veränderungen des Gedächtnisses und anderer Denkfunktionen sind
 oft schwer frühzeitig zu erkennen, obwohl eine frühe Identifikation für
 die klinische Versorgung und die Forschung sehr wichtig ist. Derzeit

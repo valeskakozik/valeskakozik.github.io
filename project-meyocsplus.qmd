@@ -28,9 +28,9 @@ function switchLang(lang) {
 </div>
 ```
 
-## Plain English Summary
-
 ::: lang-en
+## Plain Language Summary
+
 Detecting early memory and thinking problems is important — but 
 cognitive testing typically requires trained staff, specialist 
 equipment, and a clinic visit. This limits how widely and how often 
@@ -66,6 +66,8 @@ different patient populations.
 :::
 
 ::: lang-de
+## Zusammenfassung in einfacher Sprache
+
 Die frühzeitige Erkennung von Gedächtnis- und Denkproblemen ist 
 wichtig – doch kognitive Tests erfordern in der Regel geschultes 
 Personal, spezielle Geräte und einen Klinikbesuch. Dies schränkt 
