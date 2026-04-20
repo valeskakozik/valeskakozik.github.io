@@ -1,0 +1,146 @@
+---
+title: "DigA-kog: Digital Screening for Early Detection of Mild Cognitive Impairment"
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('.lang-de').style.display = 'none';
+  document.querySelector('.lang-en').style.display = 'block';
+});
+
+function switchLang(lang) {
+  document.querySelector('.lang-en').style.display = 
+    lang === 'en' ? 'block' : 'none';
+  document.querySelector('.lang-de').style.display = 
+    lang === 'de' ? 'block' : 'none';
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+}
+</script>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" 
+  onclick="switchLang('en')">EN</button>
+  <button class="lang-btn" data-lang="de" 
+  onclick="switchLang('de')">DE</button>
+</div>
+```
+
+::: lang-en
+## Plain Language Summary
+
+Subtle changes in memory and thinking can be difficult to detect early,
+even though early identification is important for clinical care and
+research. At present, cognitive assessment often depends on face-to-face
+testing in specialised settings, which can be time-consuming and
+resource-intensive.
+
+The DigA-kog project examines whether a self-administered digital
+screening tool can help make this process easier and more accessible.
+The tool is designed to assess cognitive performance in a structured
+but user-friendly format, allowing people to complete it independently
+outside traditional clinical environments.
+
+In this multi-centre study, we are evaluating how well the tool can
+distinguish between people with mild cognitive impairment (MCI) and
+cognitively healthy adults. We are also testing how reliable and valid
+the tool is by comparing it with established neuropsychological
+assessments. In addition, data from a large healthy sample will be used
+to establish reference values across different age and education groups,
+which is essential for meaningful interpretation of individual results.
+
+A further part of the project explores whether information from wearable
+devices, such as sleep or physical activity data, can add useful
+information and improve screening accuracy.
+
+Overall, DigA-kog asks whether digital cognitive screening can provide
+a scientifically robust and practical approach to earlier, broader, and
+more accessible detection of cognitive decline.
+:::
+
+::: lang-de
+## Zusammenfassung in einfacher Sprache
+
+Leichte Veränderungen des Gedächtnisses und anderer Denkfunktionen sind
+oft schwer frühzeitig zu erkennen, obwohl eine frühe Identifikation für
+die klinische Versorgung und die Forschung sehr wichtig ist. Derzeit
+beruhen kognitive Untersuchungen meist auf persönlichen Testungen in
+spezialisierten Einrichtungen, was zeitaufwendig ist und personelle
+Ressourcen erfordert.
+
+Im Projekt DigA-kog untersuchen wir, ob ein digitaler, selbstständig
+durchführbarer Screening-Test diesen Prozess vereinfachen und besser
+zugänglich machen kann. Das Verfahren wurde so entwickelt, dass es
+kognitive Leistungen in einem strukturierten, aber nutzerfreundlichen
+Format erfasst und auch außerhalb klassischer klinischer Umgebungen
+eigenständig bearbeitet werden kann.
+
+In dieser multizentrischen Studie prüfen wir, wie gut das Verfahren
+zwischen Menschen mit leichter kognitiver Störung (MCI) und kognitiv
+gesunden Erwachsenen unterscheiden kann. Außerdem untersuchen wir seine
+Zuverlässigkeit und Validität, indem wir die Ergebnisse mit etablierten
+neuropsychologischen Verfahren vergleichen. Zusätzlich werden Daten
+einer großen gesunden Stichprobe genutzt, um Referenzwerte für
+verschiedene Alters- und Bildungsgruppen zu erstellen. Diese sind
+wichtig, damit individuelle Ergebnisse sinnvoll eingeordnet werden
+können.
+
+Ein weiterer Teil des Projekts untersucht, ob Informationen aus
+Wearables, etwa zu Schlaf oder körperlicher Aktivität, zusätzliche
+Hinweise liefern und die Genauigkeit des Screenings verbessern können.
+
+Insgesamt geht DigA-kog der Frage nach, ob digitales kognitives
+Screening einen wissenschaftlich fundierten und zugleich praktischen
+Beitrag zu einer früheren, breiteren und leichter zugänglichen
+Erkennung kognitiver Veränderungen leisten kann.
+:::
+
+&nbsp;
+
+*<!-- TODO: Add figure here when available -->*
+
+---
+
+## For Researchers
+
+**Status:** [Data collection ongoing]{.status-ongoing}
+
+**My role:** Postdoctoral researcher and coordinating investigator at
+the lead centre (Jena University Hospital / Universitätsklinikum Jena)
+
+**Responsibilities:** Study protocol development and ethics application
+(including amendments); DRKS registration; data collection and
+recruitment (including clinical partner liaison); supervision of junior
+staff; multi-centre coordination; neuropsychological input into app
+development; analysis of legacy app data (to be presented at
+[AAIC 2026](https://aaic.alz.org)); industry partner collaboration;
+external presentations including at international conferences and the 
+World Alzheimer Day.
+
+**Funding:**
+Funded by the German Federal Ministry of Research, Technology and Space
+(BMFTR) via the VDI Technology Centre.
+
+**Design:**
+Multi-centre validation study across three sites in Germany (Jena,
+Cologne, Berlin). The study evaluates a self-administered digital
+cognitive screening tool against established neuropsychological
+assessments in a sample of adults with mild cognitive impairment (MCI)
+and cognitively healthy controls. Normative data are being collected
+from a large healthy sample to establish age- and education-adjusted
+reference values. A secondary aim explores whether wearable-derived
+data (e.g., heart rate, sleep, physical activity) contribute additional 
+predictive value.
+
+**Funding:**
+Funded by the German Federal Ministry of Research, Technology and Space
+(BMFTR) via the VDI Technology Centre.
+
+**Trial registration:**
+[DRKS00037239 (English)](https://drks.de/search/en/trial/DRKS00037239)
+· [DRKS00037239 (Deutsch)](https://drks.de/search/de/trial/DRKS00037239)
+
+**Publications:**
+Study protocol in preparation.

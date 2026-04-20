@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "project-postcovid.qmd"
+    - "project-digakog.qmd"
 
 website:
   title: "Valeska Kozik"
@@ -12,14 +13,14 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: skills.qmd
-        text: Skills
-      - href: participate.qmd
-        text: Participate / Teilnehmen
       - href: publications.qmd
         text: Publications
+      - href: skills.qmd
+        text: Skills
       - href: contact.qmd
         text: Contact
+      - href: participate.qmd
+        text: Participate / Teilnehmen
 
 format:
   html:
