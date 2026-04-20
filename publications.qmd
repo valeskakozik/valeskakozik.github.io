@@ -6,14 +6,18 @@ For a complete and up-to-date list, see my [ORCID  profile](https://orcid.org/00
 
 ------------------------------------------------------------------------
 
-## In Press
+<!--## In Press-->
 
-**Longitudinal stability of cognitive impairments in post-COVID-19 syndrome assessed with the tablet-based Oxford Cognitive Screen-Plus**\
-Kozik V, Reuken PA, Katzer K, Stallmach Z, Utech I, Demeyere N, Schwab M, Stallmach A, Finke K\
-*Scientific Reports* · in press · [DOI: 10.1038/s41598-026-48476-5](https://doi.org/10.1038/s41598-026-48476-5) · [Open Access]{.oa-badge}
+
 
 
 ## Published
+
+::: pub-entry
+**Longitudinal stability of cognitive impairments in post-COVID-19 syndrome assessed with the tablet-based Oxford Cognitive Screen-Plus**\
+Kozik V, Reuken PA, Katzer K, Stallmach Z, Utech I, Demeyere N, Schwab M, Stallmach A, Finke K\
+*Scientific Reports* · 2026 · [DOI: 10.1038/s41598-026-48476-5](https://doi.org/10.1038/s41598-026-48476-5) · [Open Access]{.oa-badge}
+:::
 
 ::: pub-entry
 **Identification of Hepatic Encephalopathy in Patients with Liver Cirrhosis Using the Tablet-Based OCS-Plus Test**\

@@ -13,7 +13,7 @@ interpretation, training of others, and adaptation for research
 protocols. This spans a broad range of standardised tools, from brief
 cognitive screenings to comprehensive neuropsychological batteries, as
 well as digital and computerised instruments, symptom validity measures,
-and questionnaire-based assessment of mood, fatigue, psychiatric and
+and questionnaire-based assessment of mood, fatigue, psychiatric, and
 somatic symptoms.
 
 ------------------------------------------------------------------------
@@ -24,19 +24,17 @@ somatic symptoms.
 Inferential statistics; robust statistical modelling; linear and mixed
 models; normative modelling; psychometric methods including reliability,
 validity, and diagnostic accuracy; network analysis and graphical
-modelling; voxel-based lesion-symptom mapping (VLSM); ROC analysis.
+modelling; ROC analysis; voxel-based lesion-symptom mapping (VLSM)
 
 **Open science and research design**\
 Trial registration; ethics applications (including multi-centre and
-industry-collaboration contexts); study protocol development;
-pre-registration; research data management. Completed the [Improving
-Your Statistical
-Inferences](https://www.coursera.org/learn/statistical-inferences)
-course by Daniel Lakens (Eindhoven University of Technology).
+industry-collaboration contexts); study protocol development; research data management. 
+Completed the [Improving Your Statistical Inferences](https://www.coursera.org/learn/statistical-inferences)
+course by Daniël Lakens (Eindhoven University of Technology).
 
 **Data management**\
 Large and complex clinical datasets; automated workflow development;
-database design and maintenance; data curation and quality control.
+database design and maintenance; data curation and quality control
 
 ------------------------------------------------------------------------
 
@@ -45,7 +43,7 @@ database design and maintenance; data curation and quality control.
 **Statistical and scientific computing**\
 R (primary language; extensive experience including data wrangling,
 modelling, visualisation, and custom function development); MATLAB;
-Python (working knowledge).
+Python (working knowledge)
 
 **Other tools**\
 Reference management: Zotero, EndNote, Mendeley · Systematic review:
@@ -92,9 +90,8 @@ neuropsychological assessment.
 ## Networks & Collaboration
 
 **Within the research community**  
-Journal club (Methods, Open Science & Cognitive Ageing): Regular participant in a peer-led journal club focusing on
-methodological topics, open science and reproducibility, mild cognitive
-impairment, neuroimaging, and academic culture.
+Journal club (Cognitive Ageing, Methods, Open Science): Regular participant in a peer-led journal club focusing on
+mild cognitive impairment and dementia, methodological topics, open science and reproducibility, neuroimaging, and academic culture.
 
 **Junior Researchers' Lab Meeting**\
 Initiated a regular meeting for junior researchers within the lab (independent of senior
@@ -118,7 +115,7 @@ between geographically distributed teams.
 
 **Industry and technology partnerships**  
 Substantial experience collaborating with industry partners, including
-medical technology companies and startups. Roles have included serving
+medical technology companies and start ups. Roles have included serving
 as scientific liaison between research teams and software developers,
 translating neuropsychological requirements into technical
 specifications, and reviewing implementations iteratively to ensure

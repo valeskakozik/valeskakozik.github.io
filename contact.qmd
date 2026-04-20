@@ -46,7 +46,7 @@ Am Klinikum 1
 
 - *Study participation:* if you are interested in taking part in one 
 of the research studies, please visit the 
-[Participate / Teilnahme](participate.qmd) page for more information.
+[Participate / Teilnehmen](participate.qmd) page for more information.
 - *Professional collaboration:* I am happy to hear from researchers 
 and clinicians interested in collaborative projects.
 - *Questions about my research:* if you have read about one of my 
@@ -73,7 +73,7 @@ Am Klinikum 1
 
 - *Studienteilnahme:* Wenn Sie Interesse haben, an einer der Studien 
 teilzunehmen, besuchen Sie bitte die Seite 
-[Participate / Teilnahme](participate.qmd) für weitere Informationen.
+[Participate / Teilnehmen](participate.qmd) für weitere Informationen.
 - *Wissenschaftliche Zusammenarbeit:* Ich freue mich über 
 Kontaktaufnahmen von Forschenden und Kliniker:innen, die an gemeinsamen 
 Projekten interessiert sind.

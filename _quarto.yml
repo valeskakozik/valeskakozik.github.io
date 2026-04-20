@@ -15,7 +15,7 @@ website:
       - href: skills.qmd
         text: Skills
       - href: participate.qmd
-        text: Participate / Teilnahme
+        text: Participate / Teilnehmen
       - href: publications.qmd
         text: Publications
       - href: contact.qmd

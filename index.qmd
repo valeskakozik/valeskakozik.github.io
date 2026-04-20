@@ -21,7 +21,7 @@ gap: 2rem; margin-bottom: 2rem;">
     </div>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="headshot.jpg" alt="" 
+    <img src="IMG_1316 2.JPG" alt="" 
     style="width: 120px; height: 120px; border-radius: 50%; 
     object-fit: cover;">
   </div>
