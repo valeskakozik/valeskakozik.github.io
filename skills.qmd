@@ -66,10 +66,10 @@ Completed modules:
 -   Project Management
 -   Applying for Third Party Funding
 -   Gender and Diversity in Research
+-   Research Data Management
 
 Some upcoming modules:
 
--   Research Data Management
 -   Intersectional Data Science
 -   Leadership Skills
 -   Interdisciplinary Communication and Collaboration
