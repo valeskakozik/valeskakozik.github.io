@@ -95,4 +95,7 @@ is ongoing. Data extraction covers cognitive domains assessed,
 validity, reliability, and normative data, using Covidence systematic
 review software.
 
+**Preregistration:**
+Open Science Framework (OSF) DOI: [10.17605/OSF.IO/97TB2](https://doi.org/10.17605/OSF.IO/97TB2) 
+
 **Publications:** Full-text review ongoing; manuscript to follow.
